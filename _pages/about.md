@@ -2,7 +2,33 @@
 permalink: /about/
 title: "About"
 ---
+<span class="image left"><img src="{{ "/images/headshot.jpg" | absolute_url }}" alt="" /></span>
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I like making video games! I've been playing them ever since I was a kid and always thought it would be cool to make them too! When I went to college at Utah Valley University I got my first taste of it and fell in love.
+I always hated school, but for the first time I was actually sad if I had to miss a class. I've learned so much and made so many fantastic friends since then, 
+and I'm excited for whatever new opportunities come my way.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+While video games are all well and fun, I've got a few other hobbies I enjoy as well. I like to make music; I like to use synths and stuff to make electronic music but I can also play the ukuele, can sort of play the piano, and I used to play the violin way back in middle school (I'm probably not very good anymore). I also like to DM for Dungeons & Dragons; I'm still pretty new at it, but I've always enjoyed making stories and worlds and characters and stuff but never really had a way to express them until now. When I started playing D&D I immediately wanted to start DMing, and since I have it's been a lot of fun.
+
+I've got a lot of expereince making games in Unity from design, to coding, to modeling and animating, to materials, shaders, lighting, and lots of stuff inbetween
+I enjoy using Houdini as well, creating tools and procedural builders for things is something I find fun. I guess it's kinda like a puzzle, finding what goes where to get to the next step.
+
+### Skills
+
+| Unity | Game design, C#, Shaders (Amplify, Shadergraph, HLSL), Lighting, Animation |
+| Coding | C#, Python, VEX, MEL |
+| 3D Modeling | Maya, Houdini, Blender |
+| Texturing | Substance Designer, Substance Painter|
+
+
+### Projects
+Checkout my [Games]({{ "/categories/#game/" | absolute_url }}) or some of the things I'm proud of:
+
+| [Crimson Sands]({{ "/game/crimsonsands/" | absolute_url }}) |
+| [Lots of prototypes]({{ "/game/blog/prototypes/" | absolute_rol }}) |
+| [Goober Go Home]({{ "#" | absolute_url }}) |
+| Dinsey Imagineering 2018 (Semi-finalist) |
+
+
+
+<span class="image left"><img src="{{ "/images/logo.png" | absolute_url }}" alt="" /></span>
