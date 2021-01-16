@@ -18,9 +18,7 @@ repository: "genaralskar/genaralskar.github.io"
 title: Collin Anderson
 email: CollinAnderson827@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Collin Anderson is a game developer making cool stuff!
 twitter_username: genaralskar
 github_username: genaralskar
 minimal_mistakes_skin: default
@@ -76,6 +74,12 @@ author:
     - label: "Artstation"
       icon: "fab fa-fw fa-artstation"
       url: "https://artstation.com/genaralskar"
+    - label: "Tutorials"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCFH5l_TN4gjH4pC3S9CWRzg"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCGezCvs9K2Tr8QK3_Ie_kng"
     - label: "Back to top"
       icon: "fas fa-arrow-circle-up"
       url: "#"
@@ -93,6 +97,12 @@ footer:
       url: "https://github.com/genaralskar"
     - label: "Artstation"
       icon: "fab fa-fw fa-artstation"
+    - label: "Tutorials"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCFH5l_TN4gjH4pC3S9CWRzg"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCGezCvs9K2Tr8QK3_Ie_kng"
       url: "https://artstation.com/genaralskar"
 
 defaults:
