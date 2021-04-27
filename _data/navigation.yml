@@ -1,11 +1,13 @@
 main:
   - title: "Home"
     url: /index.html
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "About"
+    url: /about/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/

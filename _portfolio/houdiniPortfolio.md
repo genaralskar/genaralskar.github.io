@@ -1,0 +1,15 @@
+---
+title: "Houdini Portfolio"
+---
+# Some Favorites
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">make a plugin with <a href="https://twitter.com/sidefx?ref_src=twsrc%5Etfw">@sidefx</a> <a href="https://twitter.com/hashtag/houdini?src=hash&amp;ref_src=twsrc%5Etfw">#houdini</a> to import <a href="https://twitter.com/watawatabou?ref_src=twsrc%5Etfw">@watawatabou</a>&#39;s city generator data into <a href="https://twitter.com/hashtag/unity3d?src=hash&amp;ref_src=twsrc%5Etfw">#unity3d</a>! still need to work on some issues, mainly the terrain textures, but I&#39;m really happy how it&#39;s turning out! just plug in the json export, and the tool does the rest!<a href="https://twitter.com/hashtag/gamedev?src=hash&amp;ref_src=twsrc%5Etfw">#gamedev</a> <a href="https://twitter.com/hashtag/indiedev?src=hash&amp;ref_src=twsrc%5Etfw">#indiedev</a> <a href="https://t.co/t931HsMB8O">pic.twitter.com/t931HsMB8O</a></p>&mdash; genaralskar (@GenaralSkar) <a href="https://twitter.com/GenaralSkar/status/1349872671903813632?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">just worked out a procedural building generator in <a href="https://twitter.com/sidefx?ref_src=twsrc%5Etfw">@sidefx</a> <a href="https://twitter.com/hashtag/houdini?src=hash&amp;ref_src=twsrc%5Etfw">#houdini</a> that can auto place uvs based on a texture sheet. wow was this more of a pain than i thought it would be. houdini, yall need some better uv stuff <a href="https://t.co/jVCE3e6tkA">pic.twitter.com/jVCE3e6tkA</a></p>&mdash; genaralskar (@GenaralSkar) <a href="https://twitter.com/GenaralSkar/status/1382125150154334208?ref_src=twsrc%5Etfw">April 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">You can now pathfind roads between two or more points! it also take height into consideration so it won&#39;t go up super steep slopes if it can find a better way! <a href="https://twitter.com/hashtag/houdini?src=hash&amp;ref_src=twsrc%5Etfw">#houdini</a> <a href="https://twitter.com/hashtag/3dmodeling?src=hash&amp;ref_src=twsrc%5Etfw">#3dmodeling</a> <a href="https://t.co/EQV1GdGZig">pic.twitter.com/EQV1GdGZig</a></p>&mdash; genaralskar (@GenaralSkar) <a href="https://twitter.com/GenaralSkar/status/1157025259289059328?ref_src=twsrc%5Etfw">August 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+
+# Houdini Posts
+[Check out the Houdini tag](/tags/#houdini)
+
+# Bunches of others
+<a class="twitter-timeline" data-height="1500" data-dnt="true" data-theme="dark" href="https://twitter.com/GenaralSkar/timelines/1306043522542231552?ref_src=twsrc%5Etfw">Houdini Stuff - Curated tweets by GenaralSkar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  

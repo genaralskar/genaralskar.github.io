@@ -9,7 +9,7 @@ categories:
 tags:
   - C#
 ---
-## [Click me to download it!](https://github.com/genaralskar/FG-Stream-Helper/releases)
+## [Download here it on GitHub](https://github.com/genaralskar/FG-Stream-Helper/releases)
 
 So a while ago, I wanted to start streaming some smash bros, or my friend was starting a tournament or something, I don't actually remember the details, BUT I started working on a stream overlay! I set up all the text elements then realized that updating all of them would start to become a pain in the butt! Open the left name text, change that, open the right name text, change that, open the bracket text, change that, and having to do that for the score text each time a game ends too!? I figured I could come up with something much better. Queue, FG Stream Helper! (The below gif is a slightly outdated interface)
 
