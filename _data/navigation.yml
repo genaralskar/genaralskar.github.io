@@ -3,7 +3,7 @@ main:
     url: /index.html
   - title: "Portfolio"
     url: /portfolio/
-  - title: "About"
+  - title: "About Me"
     url: /about/
   - title: "Posts"
     url: /posts/

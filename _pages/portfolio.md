@@ -5,6 +5,13 @@ layout: collection
 classes: wide
 
 feature_row:
+    - image_path: /assets/images/sylphlings/header.jpg
+      alt: ""
+      title: "Sylphlings"
+      excerpt: "A cute game about a closed species"
+      url: "/devlog/game/sylphlings/"
+      btn_label: "Learn More"
+      btn_class: "btn--info"
     - image_path: /assets/images/oneBullet/game.png
       alt: ""
       title: "One Bullet"
@@ -18,6 +25,13 @@ feature_row:
       excerpt: "Pong but better. [Github](https://github.com/genaralskar/Pong-Out)"
       url: "https://genaralskar.itch.io/pong-out"
       btn_label: "Play Now"
+      btn_class: "btn--info"
+    - image_path: /assets/images/dnd/vrcity1.jpg
+      alt: ""
+      title: "Houdini"
+      excerpt: "Cool stuff I've done in Houdini"
+      url: "/portfolio/houdiniPortfolio/"
+      btn_label: "Take a look"
       btn_class: "btn--info"
     - image_path: /assets/images/fgStreamHelper/overview.jpg
       alt: ""
@@ -45,13 +59,6 @@ feature_row:
       title: "2dpg"
       excerpt: "A small 2d action rpg style game. [Github](https://github.com/genaralskar/Personal-Projects/tree/UnityStuff/Unity%20Projects/2dpg)"
       url: "https://twitter.com/GenaralSkar/timelines/1387095575456223232"
-      btn_label: "Take a look"
-      btn_class: "btn--info"
-    - image_path: /assets/images/cliffTut.png
-      alt: ""
-      title: "Houdini"
-      excerpt: "Cool stuff I've done in Houdini"
-      url: "/portfolio/houdiniPortfolio/"
       btn_label: "Take a look"
       btn_class: "btn--info"
     - image_path: /assets/images/shaderStuff.jpg
