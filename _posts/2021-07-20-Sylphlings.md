@@ -16,7 +16,7 @@ For the past few months, I have been working with the people at [https://www.sus
 There is an embeded video at the [bottom of the page](#videos) of dev videos showing progress and features.
 
 ## The game
-Along with characters users can purchase, you can also acquire other items for your character. Tools, boots, clothes (although they don't show on the character art, but you still get them in their inventory). It reminds me a bit of Neopets, where you could get your pet, play games on the site, buy stuff for them, that kinda thing. That's sorta the vibe the game is going for. I'll talk a bit about parts of the game I've worked on.
+Along with characters users can purchase, you can also acquire other items for your character. Tools, boosts, clothes (although they don't show on the character art, but you still get them in their inventory). It reminds me a bit of Neopets, where you could get your pet, play games on the site, buy stuff for them, that kinda thing. That's sorta the vibe the game is going for. I'll talk a bit about parts of the game I've worked on.
 
 I should point out, I haven't worked on any of the art. Most of it was created by Saunt and the art team. Other temp art is open-source art being used as a place holder.
 
