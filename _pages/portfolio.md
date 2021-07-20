@@ -9,7 +9,7 @@ feature_row:
       alt: ""
       title: "Sylphlings"
       excerpt: "A cute game about a closed species"
-      url: "/devlog/game/sylphlings/"
+      url: "/devlog/game/Sylphlings/"
       btn_label: "Learn More"
       btn_class: "btn--info"
     - image_path: /assets/images/oneBullet/game.png
